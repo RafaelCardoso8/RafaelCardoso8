@@ -45,10 +45,10 @@ class Programmer
 		<td>2</td>
 		<td><a href="https://github.com/RafaelCardoso8/Ex2_CuroemVideo_JS"><b>Verificador de idade</b></a></td>
 	 	<td>Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>3</td>
