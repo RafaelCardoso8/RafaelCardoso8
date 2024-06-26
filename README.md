@@ -36,10 +36,10 @@ class Programmer
 		<td>1</td>
             	<td><a href="https://github.com/RafaelCardoso8/Exercicio_JS_CalculoMedia"><b>Calculadora de média</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/RafaelCardoso8/Exercicio_JS_CalculoMedia?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/RafaelCardoso8/Exercicio_JS_CalculoMedia?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/RafaelCardoso8/Exercicio_JS_CalculoMedia?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelCardoso8/Exercicio_JS_CalculoMedia?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>2</td>
