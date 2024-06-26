@@ -78,6 +78,8 @@ class Programmer
         <h4 align="left">High Skill:</h4>        
         <h4 align="left">Medium Skill:</h4>        
         <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+	<a href="https://stackshare.io/html" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="javascript" width="40" height="40" /></a>
+	<a href="https://stackshare.io/css" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="javascript" width="40" height="40" /></a>
 	<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>	
         <h4 align="left">Low Skill:</h4>
