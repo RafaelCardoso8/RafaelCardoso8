@@ -49,25 +49,7 @@ class Programmer
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelCardoso8/Ex2_CuroemVideo_JS?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-		<td>3</td>
-            	<td><a href="https://github.com/marcodotcastro/application-lifecycle-management"><b>ALM / CI</b></a></td>
-		<td>DevOps</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	 <tr>
-		<td>4</td>
-            	<td><a href="https://github.com/marcodotcastro/study-rails-vs-phoenix-vs-laravel"><b>Rails vs Phoenix vs Laravel</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-        </tr>
+        </tr>       
     </tbody>
 </table>
 
